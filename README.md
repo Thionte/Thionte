@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Thionte</h1>
-<h3 align="center">Türkiye toprakları içinde kendimce projeler geliştiriyorum.</h3>
+<h3 align="center">Türkiye sınırları içinde kendimce projeler geliştiriyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thionte&label=Profile%20views&color=0e75b6&style=flat" alt="thionte" /> </p>
 
