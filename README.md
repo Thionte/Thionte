@@ -1,6 +1,14 @@
 <h1 align="center">Merhaba 👋, Ben Thionte</h1>
 <h3 align="center">Türkiye sınırları içinde kendimce projeler geliştiriyorum.</h3>
 
+<hr />
+<p align="center">
+    <img alt="" src="https://media.tenor.com/f3HGfIRTPGYAAAAd/atat%C3%BCrk-mustafa-kemal-atat%C3%BCrk.gif" width="400" height="300" />
+</p>
+
+<hr />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thionte&label=Profile%20views&color=0e75b6&style=flat" alt="thionte" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thionte" alt="thionte" /></a> </p>
